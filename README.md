@@ -13,6 +13,6 @@ Projet de gestion de salles et d'utilisateurs utilisant JPA, Hibernate et une ba
 
 ```bash
 mvn test
+```
 
-
-<img width="1917" height="1017" alt="1" src="https://github.com/user-attachments/assets/6ae59849-ec4e-4676-b8a4-2184242eaa61" />
+<img width="1917" height="1017" alt="1" src="https://github.com/user-attachments/assets/28817de0-b5c5-40ef-884b-43c0b18bbff2" />
